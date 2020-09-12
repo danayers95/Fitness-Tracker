@@ -1,3 +1,7 @@
+# Ignore guidelines for assignment
+Guidelines.md
+
+
 # Logs
 logs
 *.log
