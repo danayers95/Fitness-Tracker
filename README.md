@@ -7,18 +7,23 @@
 ## Table of Contents:
 
 *[Description](#description)
+<br>
 *[Installation](#installation)
+<br>
 *[Usage](#usage)
+<br>
 *[License](#license)
+<br>
 *[Contributing](#contributing)
+<br>
 *[Tests](#tests)
+<br>
 *[Questions](#questions)
 
 
 ---
 
-## ![Deployed Heroku Link](https://still-temple-53034.herokuapp.com
-
+Deployed Heroku Link: https://still-temple-53034.herokuapp.com
 ## Description:
 An Application built to give users a simple interface to create and track workouts.
 
